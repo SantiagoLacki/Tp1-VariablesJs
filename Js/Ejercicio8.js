@@ -8,7 +8,7 @@
 
 document.writeln("Algoritmo para determinar si un numero es divisible en 2: <br>");
 
-numero = parseInt(prompt("Ingrese un numero: "))
+const numero = parseInt(prompt("Ingrese un numero: "))
 
 if (numero % 2 === 0) {
   document.writeln(`El numero ${numero}, SI es divisible en 2. <br>`);

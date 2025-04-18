@@ -5,9 +5,9 @@
 
 document.writeln("Algoritmo para determinar el descuento del 15% del un precio mayor a 1000: <br>");
 
-let precio = parseFloat(prompt("Ingrese el precio del producto (debe ser mayor a $1000): "));
-let descuento = "";
-let precioFinal = "";
+const precio = parseFloat(prompt("Ingrese el precio del producto (debe ser mayor a $1000): "));
+const descuento = "";
+const precioFinal = "";
 
 if (precio > 1000) {
   descuento = precio * 0.15;

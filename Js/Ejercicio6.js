@@ -6,8 +6,8 @@
 
 document.writeln("Algoritmo para determinar que numero de los ingresados es mayor: <br>");
 
-num1 = parseInt(prompt("Ingrese el primer numero: "));
-num2 = parseInt(prompt("Ingrese el segundo numero: "));
+const num1 = parseInt(prompt("Ingrese el primer numero: "));
+const num2 = parseInt(prompt("Ingrese el segundo numero: "));
 
 if (num1 != num2) {
   if (num1 > num2) {

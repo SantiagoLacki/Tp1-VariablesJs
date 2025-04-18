@@ -27,7 +27,14 @@ git clone https://github.com/SantiagoLacki/Tp1-VariablesJs
       ├── Ejercicio8.js
       ├── Ejercicio9.js
       ├── Ejercicio10.js
-      └── Ejercicio11.js
+      ├── Ejercicio11.js
+      ├── Pseint1.js
+      ├── Pseint2.js
+      ├── Pseint3.js
+      ├── Pseint4.js
+      ├── Pseint5.js
+      ├── Pseint6.js
+      └── Pseint7.js
   ├── index.html
   └── README.md
 

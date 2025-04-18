@@ -9,7 +9,7 @@
 document.writeln("Algoritmo que define si un número es divisible por 2, 3, 5 o 7: <br>");
 
 const numero = parseInt(prompt("Ingrese un numero para determinar si es divisible por 2, 3, 5 o 7: "));
-divisible = "";
+let divisible = "";
 
 document.writeln("El número ingresado es: ", numero, " <br>");
 
